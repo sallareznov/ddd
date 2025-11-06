@@ -104,9 +104,7 @@ Un admin doit pouvoir:
 - Implémenter le domaine dans sa totalité, en respectant ces règles:
     - la partie métier du système DOIT refléter la compréhension de l'expert métier, et donc pouvoir être compréhensible
       par celui-ci
-    - le système ne DOIT PAS représenter d'états invalides
-    - les signatures de fonctions (et des constructeurs de classes) ne doivent pas mentir. Elles doivent être explicites
-      notamment sur les cas d'erreurs potentielles
+    - toutes les fonctions du domaine doivent être testées via des tests unitaires
 - Implémenter la partie database, avec:
     - un fichier texte
   
