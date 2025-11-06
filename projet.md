@@ -80,6 +80,10 @@ check-in
 Le client peut annuler sa réservation, qu'elle soit effectuée ou confirmée. Auquel cas, il n'est PAS remboursé par
 l'hôtel.
 
+#### Libérer une chambre
+
+Le client peut libérer sa chambre, ce qui a pour effet de mettre à jour les disponibilités des chambres de l'hôtel
+
 ## Fonctionnalités admin
 
 (Nous considérons qu'il n'y a qu'un seul compte admin dans toute la plateforme)
