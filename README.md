@@ -1,3 +1,3 @@
-[cours.md](cours.md)
+[rappel-cours.md](rappel-cours.md)
 
 [projet.md](projet.md)
